@@ -1,5 +1,5 @@
 {
-  "name": "oauth-sample",
+  "name": "google-photos-oauth-sample",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
     "format": "prettier src --write",
     "lint": "prettier src --check"
   },
-  "repository": "git+https://github.com/shisama/oauth-sample.git",
+  "repository": "git+https://github.com/shisama/google-photos-oauth-sample.git",
   "keywords": [],
   "author": "shisama <shisama07@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shisama/oauth-sample/issues"
+    "url": "https://github.com/shisama/google-photos-oauth-sample/issues"
   },
-  "homepage": "https://github.com/shisama/oauth-sample#readme",
+  "homepage": "https://github.com/shisama/google-photos-oauth-sample#readme",
   "devDependencies": {
     "prettier": "^2.1.2",
     "ts-loader": "^8.0.11",

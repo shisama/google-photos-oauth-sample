@@ -1,1 +1,1 @@
-# oauth-sample
+# google-photos-oauth-sample
